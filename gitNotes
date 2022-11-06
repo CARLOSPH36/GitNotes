@@ -33,6 +33,12 @@ git checkout -- <fileName>
 git diff <fileName>
 
 
+# crear carpeta para ignorar
+crear archivo .gitignore usando:
+touch .gitignore
+escribir nombre de archivos en el file .gitignore
+
+
 Etapas:
 
 WORKING DIRECTORY <git add> STAGING AREA <git commit> REPOSITORY
