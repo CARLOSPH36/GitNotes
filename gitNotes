@@ -1,0 +1,32 @@
+git es un Version Control System(VCS)
+
+
+Configuracion basica:
+# configurar el nombre de usuario del SO.
+git config --global user.name "who"
+#para configurar el email de usuario
+git config --global user.email "ejemplo@gmail.com"
+
+
+
+
+Commands:
+
+#inicializar un proyecto
+git init
+# agregar archivos al STAGING AREA
+git add <fileName>
+# ver el estado de nuestros archivos
+git status
+
+
+git commit
+git push
+git pull
+git clone
+
+Etapas:
+
+WORKING DIRECTORY <git add> STAGING AREA <git commit> REPOSITORY
+
+
