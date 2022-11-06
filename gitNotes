@@ -3,7 +3,7 @@ git es un Version Control System(VCS)
 
 Configuracion basica:
 # configurar el nombre de usuario del SO.
-git config --global user.name "who"
+git config --global user.name "anyName"
 #para configurar el email de usuario
 git config --global user.email "ejemplo@gmail.com"
 
@@ -26,6 +26,12 @@ git commit
 git push
 git pull
 git clone
+
+#revertir los cambios de los archivos
+git checkout -- <fileName>
+#ver las diferencias hechas en los archivos
+git diff <fileName>
+
 
 Etapas:
 
