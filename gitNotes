@@ -19,6 +19,8 @@ git add <fileName>
 # ver el estado de nuestros archivos
 git status
 
+# ver los logs, ver todos los commits creados
+git log
 
 git commit
 git push
