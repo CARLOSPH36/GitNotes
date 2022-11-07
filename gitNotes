@@ -38,7 +38,8 @@ git checkout <branchName>
 
 git push
 git pull
-git clone
+# descargar los archivos del repo web a PC
+git clone https://github.com/CARLOSPH36/GitNotes.git
 
 #revertir los cambios de los archivos
 git checkout -- <fileName>
