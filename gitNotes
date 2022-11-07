@@ -28,6 +28,12 @@ git log
 git commit
 git commit -m "mi primer commit"
 
+
+#SUBIR REPO LOCAL A WEB
+git remote add origin https://github.com/CARLOSPH36/GitNotes.git
+git push -u origin master
+
+
 #BRANCH
 # para ver el branch en el que encuentras y se subiran tus archivos
 git branch
