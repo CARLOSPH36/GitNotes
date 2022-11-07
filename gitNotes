@@ -21,8 +21,18 @@ git status
 
 # ver los logs, ver todos los commits creados
 git log
-
+#pasar los archivos al repositorio git
 git commit
+git commit -m "mi primer commit"
+
+#BRANCH
+# para ver el branch en el que encuentras y se subiran tus archivos
+git branch
+#crear nueva branch
+git branch <branchName>
+#cambiar entre branches
+git checkout <branchName>
+
 git push
 git pull
 git clone
