@@ -2,7 +2,9 @@ git es un Version Control System(VCS)
 
 Access token:
 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
+LAST TOKEN:
 
+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
 
 Configuracion basica:
 # configurar el nombre de usuario del SO.
@@ -63,4 +65,8 @@ Etapas:
 
 WORKING DIRECTORY <git add> STAGING AREA <git commit> REPOSITORY
 
+
+#TROUBLESHOOTING
+
+git push -f origin master
 
