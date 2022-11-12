@@ -1,0 +1,5 @@
+
+#initial connection
+echo bandit0 > 0;sshpass -p $(cat 1) ssh bandit1@bandit.labs.overthewire.org -p 2220
+#conectarse via ssh y con contrasena guardada en file.xtx como parametro.
+sshpass -p $(cat 1) ssh bandit1@bandit.labs.overthewire.org -p 2220;
